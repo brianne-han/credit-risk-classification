@@ -21,4 +21,5 @@ This analysis aims to employ different methodologies for training and assessing 
 -----
 
 ## Summary
-
+After examining the results, it was noted that both models demonstrated impressive accuracy, precision, and recall scores. Nevertheless, the logistic regression model that incorporated resampling displayed slightly better performance. The oversampled model demonstrates enhanced capability in accurately detecting instances of the "high-risk loan" category, leading to higher recall and F1-score. 
+Given the goal of accurately identifying both healthy and high-risk loans, the logistic regression model with resampling emerges as the preferred option.
